@@ -8,3 +8,5 @@ user=_app seinfo=wfcactivation name=com.google.android.wfcactivation domain=wfc_
 # Domain for Sprint Hidden Menu
 user=_app isPrivApp=true seinfo=platform name=com.google.android.hiddenmenu domain=sprint_hidden_menu type=app_data_file levelFrom=all
 
+#Flipendo
+user=_app seinfo=platform name=com.google.android.flipendo domain=flipendo type=app_data_file levelFrom=all
